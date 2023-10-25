@@ -1,0 +1,10 @@
+type: PowerNode
+size: 2
+maxNodes: 40
+laserRange: 20
+category: power
+research: power-node
+requirements: [
+  lead/40
+  silicon/40
+]
